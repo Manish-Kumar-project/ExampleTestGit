@@ -13,5 +13,7 @@ public class TestMain {
         System.out.println("Testttttt");
         System.out.println("------");
         System.out.println("-------");
+        System.out.println("Hi");
+        System.out.println("Hello");
     }
 }
