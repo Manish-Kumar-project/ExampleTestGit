@@ -7,5 +7,7 @@ public class TestMain {
         featureOneExample.callFeatureOne();
         System.out.println("test one ");
         System.out.println("test two ");
+        System.out.println("Testing one");
+        System.out.println("Testing two");
     }
 }
