@@ -4,6 +4,4 @@ public class TestMain {
         FeatureTwoExample featureTwoExample = new FeatureTwoExample();
         featureTwoExample.callFeatureTwo();
     }
-
-
 }
