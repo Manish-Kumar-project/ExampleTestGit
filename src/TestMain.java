@@ -11,6 +11,8 @@ public class TestMain {
         System.out.println("Testing two");
         System.out.println("Testtttttt");
         System.out.println("Testttttt");
+        System.out.println("------");
+        System.out.println("-------");
         System.out.println("Hi");
         System.out.println("Hello");
     }
